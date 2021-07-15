@@ -47,31 +47,6 @@ Contributions are always welcome, no matter how large or small. Before contribut
 
 To get started with the project code, please read the [development documentation](https://dashboard.darekkay.com/docs/development/).
 
-## Contributors
-
-Thanks goes to these wonderful people:
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href='https://darekkay.com/' title='darekkay is awesome!'><img src='https://avatars0.githubusercontent.com/u/3101914?v=4' alt='darekkay' width='50px' /></a></td>
-    <td align="center"><a href='https://github.com/faboo03' title='faboo03 is awesome!'><img src='https://avatars3.githubusercontent.com/u/421979?v=4' alt='faboo03' width='50px' /></a></td>
-    <td align="center"><a href='https://github.com/TateKennington' title='TateKennington is awesome!'><img src='https://avatars0.githubusercontent.com/u/27887751?v=4' alt='TateKennington' width='50px' /></a></td>
-    <td align="center"><a href='http://adrianriosweb.com/' title='adrianrios25 is awesome!'><img src='https://avatars1.githubusercontent.com/u/12592624?v=4' alt='adrianrios25' width='50px' /></a></td>
-    <td align="center"><a href='https://github.com/syentix' title='syentix is awesome!'><img src='https://avatars3.githubusercontent.com/u/43079612?v=4' alt='syentix' width='50px' /></a></td>
-    <td align="center"><a href='https://alexandru-pinca.me' title='pinkahd is awesome!'><img src='https://avatars.githubusercontent.com/u/1828242?v=4' alt='pinkahd' width='50px' /></a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://allcontributors.org) specification to acknowledge all contributions.
-
 ## Attribution
 
 Included icons created by [Font Awesome](https://fontawesome.com/license/free) and [Unicons](https://github.com/Iconscout/unicons).
