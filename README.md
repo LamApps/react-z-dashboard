@@ -1,9 +1,3 @@
-# Dashboard
-
-[![Build](https://img.shields.io/github/workflow/status/darekkay/dashboard/Continuous%20Integration/master?style=flat-square)](https://github.com/darekkay/dashboard/actions)
-[![Gitter](https://img.shields.io/gitter/room/darekkay/dashboard?style=flat-square)](https://gitter.im/darekkay-dashboard/community)
-[![license](https://img.shields.io/badge/license-MIT-green?style=flat-square)](https://github.com/darekkay/dashboard/blob/master/LICENSE)
-
 
 ## Project status
 
